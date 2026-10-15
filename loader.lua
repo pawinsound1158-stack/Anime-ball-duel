@@ -2,7 +2,7 @@
 
 if not game:IsLoaded() then game.Loaded:Wait() end
 
-local BASE = 'https://raw.githubusercontent.com/YOURUSERNAME/abd-hub/main/games/'
+local BASE = 'https://raw.githubusercontent.com/pawinsound1158-stack/Anime-ball-duel/main/'
 
 -- ── SPLASH ────────────────────────────────────────────────── local function ShowSplash() local pg = game:GetService("Players").LocalPlayer local sg = Instance.new("ScreenGui") sg.Name = "ABD_Splash" sg.ResetOnSpawn = false sg.ZIndexBehavior = Enum.ZIndexBehavior.Sibling sg.Parent = game:GetService("CoreGui")
 
